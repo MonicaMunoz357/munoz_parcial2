@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MonicaMunoz357/munoz_parcial2/static/css/main.f855e6bc.css",
+    "main.js": "/MonicaMunoz357/munoz_parcial2/static/js/main.876037f5.js",
+    "static/js/453.359e1166.chunk.js": "/MonicaMunoz357/munoz_parcial2/static/js/453.359e1166.chunk.js",
+    "static/media/monica.jpeg": "/MonicaMunoz357/munoz_parcial2/static/media/monica.e6015feffda2f94cb478.jpeg",
+    "index.html": "/MonicaMunoz357/munoz_parcial2/index.html",
+    "main.f855e6bc.css.map": "/MonicaMunoz357/munoz_parcial2/static/css/main.f855e6bc.css.map",
+    "main.876037f5.js.map": "/MonicaMunoz357/munoz_parcial2/static/js/main.876037f5.js.map",
+    "453.359e1166.chunk.js.map": "/MonicaMunoz357/munoz_parcial2/static/js/453.359e1166.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.876037f5.js"
+  ]
+}
